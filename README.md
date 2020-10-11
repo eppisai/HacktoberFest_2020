@@ -3,7 +3,7 @@ https://aitoss.github.io/HacktoberFest_2020/
 
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/)
 
-Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+Hacktoberfest® is open to everyone in our global community. It is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 - **Hacktoberfest is open to everyone in our global community!**
 
